@@ -4,3 +4,4 @@ my
 Git tracks changes.
 Git has a mutable index called stage.
 123456
+789
